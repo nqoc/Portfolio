@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" width="100%" height="100%">
+  <defs>
+    <linearGradient id="sl-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B132B"/>
+      <stop offset="100%" stop-color="#1C2541"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="360" fill="url(#sl-bg)"/>
+  <!-- Moon and Stars -->
+  <path d="M460 70 C435 70, 415 50, 415 25 C415 22, 415.5 19, 416 16 C390 22, 370 46, 370 75 C370 108, 397 135, 430 135 C450 135, 467 125, 477 110 C472 112, 466 113, 460 113 Z" fill="#FFEAA7"/>
+  <!-- Statistical Chart Lines -->
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 240 L160 210 L220 225 L280 160 L340 180 L400 120 L480 140" fill="none" stroke="#6C7BF0" stroke-width="4"/>
+    <path d="M100 240 L160 210 L220 225 L280 160 L340 180 L400 120 L480 140 L480 260 L100 260 Z" fill="rgba(108,123,240,0.15)"/>
+  </g>
+  <circle cx="280" cy="160" r="6" fill="#2FB8A4"/>
+  <circle cx="400" cy="120" r="6" fill="#FFC94D"/>
+  <rect x="180" y="280" width="240" height="55" rx="10" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.2)" stroke-width="1.5"/>
+  <text x="300" y="303" text-anchor="middle" font-family="'Nunito', sans-serif" font-weight="800" font-size="15" fill="#FFFFFF">Sleep Quality Research</text>
+  <text x="300" y="321" text-anchor="middle" font-family="'Nunito', sans-serif" font-size="11" fill="#93C5FD">R Programming · Statistical Analysis</text>
+</svg>

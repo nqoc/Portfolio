@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="fav-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF8A3D"/>
+      <stop offset="100%" stop-color="#FF7C93"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#fav-grad)"/>
+  <!-- Tulip flower icon -->
+  <path d="M32 14 C27 22, 21 28, 21 37 C21 43.5, 26 48, 32 48 C38 48, 43 43.5, 43 37 C43 28, 37 22, 32 14 Z" fill="#FFFDF8"/>
+  <path d="M32 18 C30 26, 28 32, 28 37 C28 41, 30 44, 32 46 C34 44, 36 41, 36 37 C36 32, 34 26, 32 18 Z" fill="#FFE2C9"/>
+  <!-- Little stem -->
+  <path d="M32 48 L32 54" stroke="#FFFDF8" stroke-width="3" stroke-linecap="round"/>
+</svg>
